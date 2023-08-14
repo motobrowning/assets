@@ -1,4 +1,4 @@
-# Trust Wallet Assets Info
+trust no one
 
 ![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
 
